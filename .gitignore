@@ -4,4 +4,3 @@ what2.md
 
 # compile from less
 # > lessc html/document.less > html/document.css
-document.css
